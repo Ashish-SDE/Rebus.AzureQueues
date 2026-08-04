@@ -15,7 +15,7 @@
 		<PackageReadmeFile>README.md</PackageReadmeFile>
 	</PropertyGroup>
 	<ItemGroup>
-		<PackageReference Include="Azure.Storage.Queues" Version="12.26.0" />
+		<PackageReference Include="Azure.Storage.Queues" Version="12.27.1" />
 		<PackageReference Include="rebus" Version="8.9.2" />
 	</ItemGroup>
 	<ItemGroup>
